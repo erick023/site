@@ -1,0 +1,19 @@
+html, body{
+    padding: 0;
+    border:  0;
+}
+.st{
+    padding-left: 40px;
+}
+.padil{
+    padding-left: 40px;
+}
+.pad{
+    padding: 0px 40px;
+}
+body{
+    background-color: rgb(161, 161, 196);
+}
+.font{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
